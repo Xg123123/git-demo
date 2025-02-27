@@ -5,7 +5,4 @@ hello git hello123
 hello git hello123
 hello git hello123
 hello git hello123
-hello git hello123
-hello git hello123
-hello git hello123
-hello git hello123she
+hello git hello123 master
